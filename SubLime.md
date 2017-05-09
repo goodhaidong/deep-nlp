@@ -1,7 +1,8 @@
 
 ## markdown preview插件设置preview in browser快捷键方法：
-```shell
+'''shell
 { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} }
+'''
 
 ## Sublime Text 3 快捷键精华版
 Ctrl+Shift+P：打开命令面板
