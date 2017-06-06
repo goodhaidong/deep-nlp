@@ -13,3 +13,6 @@ http://blog.csdn.net/tensorflowshizhan/article/details/69230070
 http://www.cnblogs.com/rocketfan/p/6261467.html
 
 
+### tensorflow中的seq2seq例子为什么需要bucket？
+https://www.zhihu.com/question/42057513
+
